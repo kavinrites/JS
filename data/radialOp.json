@@ -1,0 +1,88 @@
+[{"Consumer Card ARR":
+[
+
+{" Check_Type":"Account Validity Check","value":"10"},
+
+{" Check_Type":"Outstanding Balance Percentile Check","value":"50"},
+
+{" Check_Type":"New Product Check","value":"0"}
+
+]},
+
+{"Corporate Card AR":
+
+[
+
+{" Check_Type":"Account Validity Check","value":"0"},
+
+{" Check_Type":"Outstanding Balance Percentile Check","value":"100"},
+
+{" Check_Type":"New Product Check","value":"50"}
+
+]},
+{"Corporate Card AR1":
+
+	[
+
+	{" Check_Type":"Account Validity Check","value":0},
+
+	{" Check_Type":"Outstanding Balance Percentile Check","value":100},
+
+	{" Check_Type":"New Product Check","value":50}
+
+	]},
+{"Corporate Card AR2":
+
+	[
+
+	{" Check_Type":"Account Validity Check","value":0},
+
+	{" Check_Type":"Outstanding Balance Percentile Check","value":100},
+
+	{" Check_Type":"New Product Check","value":50}
+
+	]},
+{"Corporate Card AR3":
+
+	[
+
+	{" Check_Type":"Account Validity Check","value":0},
+
+	{" Check_Type":"Outstanding Balance Percentile Check","value":100},
+
+	{" Check_Type":"New Product Check","value":50}
+
+	]},
+{"Corporate Card AR4":
+
+	[
+
+	{" Check_Type":"Account Validity Check","value":0},
+
+	{" Check_Type":"Outstanding Balance Percentile Check","value":100},
+
+	{" Check_Type":"New Product Check","value":50}
+
+	]},
+{"Corporate Card AR5":
+
+	[
+
+	{" Check_Type":"Account Validity Check","value":0},
+
+	{" Check_Type":"Outstanding Balance Percentile Check","value":100},
+
+	{" Check_Type":"New Product Check","value":50}
+
+	]},
+{"Corporate Card AR6":
+
+	[
+
+	{" Check_Type":"Account Validity Check","value":0},
+
+	{" Check_Type":"Outstanding Balance Percentile Check","value":100},
+
+	{" Check_Type":"New Product Check","value":50}
+
+	]}]
